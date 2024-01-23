@@ -23,9 +23,6 @@ return new class extends Migration
             $table->boolean("In orario");
             $table->boolean("Cancellato");
             $table->timestamps();
-
-
-            bghfdghjk
         });
     }
 
